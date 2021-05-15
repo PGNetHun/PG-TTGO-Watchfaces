@@ -1,7 +1,9 @@
+
 # PG-TTGO-Watchfaces
 Watchfaces for Lilygo T-Watch-2020
 
 Firmware: https://github.com/sharandac/My-TTGO-Watch
+
 Original watchfaces: https://github.com/sharandac/My-TTGO-Watchfaces
 
 # Configure watch
@@ -27,3 +29,5 @@ Process of image post-processing:
 7. Decrease colors count till image quality is still sufficient
 8. Download compressed image
 9. Copy-paste image file to watchface folder, and rename it to `watchface_dial.png`
+
+![screenshot](docs/Compress PNG.png)
