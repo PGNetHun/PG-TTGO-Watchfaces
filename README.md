@@ -30,4 +30,4 @@ Process of image post-processing:
 8. Download compressed image
 9. Copy-paste image file to watchface folder, and rename it to `watchface_dial.png`
 
-![screenshot](docs/Compress PNG.png)
+![Compress PNG online tool](docs/compresspng.png)
